@@ -5,8 +5,8 @@
   git add .
   git status
   git commit -m "added practice.py"
-  git config --global  user.name "Priyanshu"
-  git config --global user.email "priyanshubanwala1222@gmail.com"
+  git config --global  user.name "P"
+  git config --global user.email "p@gmail.com"
   git config --global --list
   git commit -m "added practice.py"
   git status
@@ -39,9 +39,12 @@
   git add .
   git commit -m "added local-to-remote"
   git push -u origin master
-  git push -u origin  main
+  git push -u origin  mail
+
   git remote remove origin
   git remote add  origin 
   git remote -v
+
+   use push to send code changes in github to local
   git branch -M main
   git push -u origin main
