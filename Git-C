@@ -1,0 +1,29 @@
+ 2 git add practice.py
+   3 git status
+   4 git rm --cached practice.py
+   5 git status
+   6 git add .
+   7 git status
+   8 git commit -m "added practice.py"
+   9 git config --global  user.name 
+  10 git config --global user.email 
+  11 git config --global --list
+  12 git commit -m "added practice.py"
+  13 git status
+  14 rm practice.py
+  15 git status
+  16 git restore practice.py
+  17 git status
+  18 history
+  19 git status
+  20 git add Git-Commands
+  21 git add Git-Commnads
+  22 git status
+  23 git add Git-Commands
+  24 git status
+  25 git restore --staged Git-Commands
+  26 del Git-Commands
+  27 git add Git-Commands
+  28 git add Git-Commands
+  29 ls
+  30 git status

@@ -15,7 +15,6 @@
   git restore practice.py
   git status
 
-
   git remote add origin 
   git remote -v
   git remote set-url origin 
