@@ -5,8 +5,8 @@
    6 git add .
    7 git status
    8 git commit -m "added practice.py"
-   9 git config --global  user.name "Priyanshu"
-  10 git config --global user.email "priyanshubanwala1222@gmail.com"
+   9 git config --global  user.name 
+  10 git config --global user.email 
   11 git config --global --list
   12 git commit -m "added practice.py"
   13 git status
